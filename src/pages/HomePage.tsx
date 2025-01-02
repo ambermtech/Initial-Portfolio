@@ -9,7 +9,7 @@ export function HomePage() {
       <header className="container mx-auto px-4 pt-32 pb-16 md:pt-48 md:pb-32">
         <div className="max-w-3xl">
           <h1 className="text-4xl md:text-6xl font-bold text-slate-900 dark:text-slate-50 mb-6">
-            Software Developer
+            Developer
           </h1>
           <p className="text-xl text-slate-600 dark:text-slate-300 mb-8">
             Building elegant solutions to complex problems. Learning and growing every day.
